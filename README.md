@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kirin2D2. I'm studying computer science at Princeton University.
+- 👀 I’m interested in Machine Learning applications 
+- 📫 Reach me at kirin@useunix.com
