@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kirin2D2. I'm studying computer science at Princeton University, and minoring in statistics & machine learning.
 - 👀 I’m interested in computational social science, explainable AI, neural network compression and efficiency, handling missing data, and machine learning theory.
-- 📫 Reach me at kirin@useunix.com
-- [My website:](https://Kirin2D2.github.io)
+- 📫 Reach me at kirin@useunix.com.
+- Click [here](https://Kirin2D2.github.io) for my website.
