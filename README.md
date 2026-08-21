@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kirin2D2. I'm primarily an AI interpretability and fairness researcher, but I've worked on a lot of stuff!
+- 👋 Hi, I’m Kirin Danek. I'm primarily an AI interpretability and fairness researcher, but I've worked on a lot of stuff!
 - 👀 My projects include NLP, Computer Vision, Human-Computer Interaction, and Computational Social Science.
 - 📫 I just graduated from <b style="color: orange;">Princeton University</b>! (May 2026). I'm now doing fairness evaluations and latent concept discovery at the <b style="color: green;">Minnesota Star Tribune</b>.
 - Click [here](https://Kirin2D2.github.io) for my website.
