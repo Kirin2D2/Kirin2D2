@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kirin2D2. I'm studying computer science at Princeton University, and minoring in statistics & machine learning.
-- 👀 I’m interested in AI fairness, mechanistic interpretability, and accessibility. My past research focuses on computer vision and natural language processing.
-- 📫 Reach me at kd9132@princeton.edu.
+- 👋 Hi, I’m @Kirin2D2. I'm primarily an AI interpretability and fairness researcher, but I've worked on a lot of stuff!
+- 👀 My projects include NLP, Computer Vision, Human-Computer Interaction, and Computational Social Science.
+- 📫 I just graduated from <b style="color: orange;">Princeton University</b>! (May 2026). I'm now doing fairness evaluations and latent concept discovery at the <b style="color: green;">Minnesota Star Tribune</b>.
 - Click [here](https://Kirin2D2.github.io) for my website.
+- Click [here](https://xai4cv-workshop.github.io/xai4cv2026/assets/posters/PS29.pdf) to see a fun poster I made about neural network compression through explainability.
