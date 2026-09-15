@@ -2,4 +2,4 @@
 - 👀 My projects include NLP, Computer Vision, Human-Computer Interaction, and Computational Social Science.
 - 📫 I just graduated from <b style="color: orange;">Princeton University</b>! (May 2026). I'm now working on model & data evaluations and latent concept discovery at the <b style="color: green;">Minnesota Star Tribune</b>.
 - Click [here](https://Kirin2D2.github.io) for my website.
-- Click [here](https://xai4cv-workshop.github.io/xai4cv2026/assets/posters/PS29.pdf) to see a fun poster I made about neural network compression through explainability.
+- Click [here](https://xai4cv-workshop.github.io/xai4cv2026/assets/posters/PS29.pdf) to see a fun poster I made about neural network compression through interpretability.
